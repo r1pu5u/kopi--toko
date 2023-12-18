@@ -1,0 +1,12 @@
+{
+    "name": "rio/app",
+    "description": "belajar composer",
+    "type": "project",
+    "license": "GPL",
+    "require": {
+        "nesbot/carbon": "^2.43",
+        "setasign/fpdf": "^1.8",
+        "moneyphp/money": "^3.3",
+        "mpdf/mpdf": "^8.0"
+    }
+}
